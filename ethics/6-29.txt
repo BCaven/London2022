@@ -1,0 +1,21 @@
+Ethics and Professional Issues in Engineering
+6-29-22
+John Blake Caven
+
+---------------------------------------------
+
+Individual project ideas:
+- use powerpoint for base video + animations then add blender audio + extra animation.
+    - "this happened then this happened then this happened" format could be nice
+
+
+BP Deepwater Horizon Disaster:
+    - An oil drilling platform (not anchored - can move anywhere)
+    - made in South Korea
+    - Owned by different company (Transocean)
+    - Leased to BP
+    -Disaster:
+        - Blowout:
+            - pressure reverses and oil/gas bursts through the piping
+            - it then caught on fire
+                - the results were disasterous (pipe broke after it fell over and even more oil/gas burst out)
